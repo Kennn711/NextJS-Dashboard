@@ -44,6 +44,7 @@ export default function Page() {
             width={1000}
             height={760}
             className="md:hidden"
+            loading="eager"
           />
         </div>
       </div>
